@@ -1,4 +1,4 @@
-# CassandraConsistencyMeetup2019
+# Cassandra Consistency Meetup 09-2019
 
 Pequeña guía con los comandos ejecutados por si queréis reproducir en casa esto.
 
@@ -322,7 +322,7 @@ select * from ejemplo1 where col1=1;
 select * from ejemplo1; 
 ```
 
-Y eso es todo!!
+**Y eso es todo!!**
 
 
 
